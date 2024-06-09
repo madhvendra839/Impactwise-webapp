@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.beea3496.css",
+    "main.js": "./static/js/main.57d70e36.js",
+    "static/js/453.d3c8d71f.chunk.js": "./static/js/453.d3c8d71f.chunk.js",
+    "static/media/impactwise logo 2000.png": "./static/media/impactwise logo 2000.1201a2e5a8c65be1e9f7.png",
+    "index.html": "./index.html",
+    "main.beea3496.css.map": "./static/css/main.beea3496.css.map",
+    "main.57d70e36.js.map": "./static/js/main.57d70e36.js.map",
+    "453.d3c8d71f.chunk.js.map": "./static/js/453.d3c8d71f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beea3496.css",
+    "static/js/main.57d70e36.js"
+  ]
+}

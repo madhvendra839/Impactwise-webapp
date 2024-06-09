@@ -1,0 +1,19 @@
+.sidebox{
+    background-color: aquamarine;
+}
+.cate{
+    font-weight: bold;
+    padding: 20px;
+    font-size: x-large;
+    border-radius: 30px;
+    color: cornflowerblue;
+    box-shadow: 2px 2px aqua;
+}
+.list{
+    margin: 0px;
+    padding: 0px 50px 0px 50px;
+    color: black;
+    font-weight: 300;
+    border-radius: 40px;
+    box-shadow: 1px 1px 2px 2px;
+}

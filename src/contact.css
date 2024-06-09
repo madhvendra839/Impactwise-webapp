@@ -1,0 +1,31 @@
+.input{
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+.container{
+    padding: 152px 0px 0px 500px;
+    width: 30%;
+    height: 600px;
+}
+.txt{
+    padding: 5px;
+    font-weight: 600;
+    /* border: aqua; */
+    border: 2px solid rgb(176, 232, 232);
+    border-radius: 3px;
+}
+.sub{
+    width: 80px;
+    padding: 10px;
+    background: cadetblue;
+    border: none;
+    border-radius: 3px;
+    color: cornsilk;
+    font-weight: 600;
+    cursor: pointer;
+}
+.sub:hover{
+    background-color: rgb(106, 231, 221);
+    padding: 10.2px;
+}
